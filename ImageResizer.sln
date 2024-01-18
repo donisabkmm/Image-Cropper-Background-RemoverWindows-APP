@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageResizer", "ImageResizer.csproj", "{D94B21F0-EF5A-499E-866D-4EFA67DBEE16}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ImageEditor", "..\ImageEditor\ImageEditor.vdproj", "{CA375E24-F95F-4D09-8CF9-468DE7F45B44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D94B21F0-EF5A-499E-866D-4EFA67DBEE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94B21F0-EF5A-499E-866D-4EFA67DBEE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94B21F0-EF5A-499E-866D-4EFA67DBEE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94B21F0-EF5A-499E-866D-4EFA67DBEE16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA375E24-F95F-4D09-8CF9-468DE7F45B44}.Debug|Any CPU.ActiveCfg = Debug
+		{CA375E24-F95F-4D09-8CF9-468DE7F45B44}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60A497F3-4C84-42B8-8BDE-A753D8F90F2F}
+	EndGlobalSection
+EndGlobal

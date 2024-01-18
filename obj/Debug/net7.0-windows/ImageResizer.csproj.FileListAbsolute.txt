@@ -1,0 +1,142 @@
+D:\SreerajP_CSharp_Projects\ImageResizer\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.exe
+D:\SreerajP_CSharp_Projects\ImageResizer\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.deps.json
+D:\SreerajP_CSharp_Projects\ImageResizer\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.runtimeconfig.json
+D:\SreerajP_CSharp_Projects\ImageResizer\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.dll
+D:\SreerajP_CSharp_Projects\ImageResizer\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.pdb
+D:\SreerajP_CSharp_Projects\ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.AssemblyReference.cache
+D:\SreerajP_CSharp_Projects\ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.frmImgResizer.resources
+D:\SreerajP_CSharp_Projects\ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.GenerateResource.cache
+D:\SreerajP_CSharp_Projects\ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SreerajP_CSharp_Projects\ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.AssemblyInfoInputs.cache
+D:\SreerajP_CSharp_Projects\ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.AssemblyInfo.cs
+D:\SreerajP_CSharp_Projects\ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.CoreCompileInputs.cache
+D:\SreerajP_CSharp_Projects\ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.dll
+D:\SreerajP_CSharp_Projects\ImageResizer\ImageResizer\obj\Debug\net7.0-windows\refint\ImageResizer.dll
+D:\SreerajP_CSharp_Projects\ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.pdb
+D:\SreerajP_CSharp_Projects\ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.genruntimeconfig.cache
+D:\SreerajP_CSharp_Projects\ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ref\ImageResizer.dll
+D:\SreerajP_CSharp_Projects\ImageResizer\ImageResizer\bin\Debug\net7.0-windows\SixLabors.ImageSharp.dll
+D:\SreerajP_CSharp_Projects\ImageResizer\ImageResizer\bin\Debug\net7.0-windows\SixLabors.ImageSharp.xml
+D:\SreerajP_CSharp_Projects\ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.CopyComplete
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.exe
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.deps.json
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.runtimeconfig.json
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.dll
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.pdb
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\bin\Debug\net7.0-windows\SixLabors.ImageSharp.dll
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\bin\Debug\net7.0-windows\SixLabors.ImageSharp.xml
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.AssemblyReference.cache
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.frmImgResizer.resources
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.GenerateResource.cache
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.AssemblyInfoInputs.cache
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.AssemblyInfo.cs
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.CoreCompileInputs.cache
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.CopyComplete
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.dll
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\obj\Debug\net7.0-windows\refint\ImageResizer.dll
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.pdb
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.genruntimeconfig.cache
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ref\ImageResizer.dll
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.Properties.Resources.resources
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\bin\Debug\net7.0-windows\SixLabors.ImageSharp.Drawing.dll
+C:\Users\DAK\Desktop\123ImageResizer\ImageResizer\bin\Debug\net7.0-windows\SixLabors.ImageSharp.Drawing.xml
+C:\Users\DAK\Desktop\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.AssemblyReference.cache
+C:\Users\DAK\Desktop\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.frmImgResizer.resources
+C:\Users\DAK\Desktop\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.Properties.Resources.resources
+C:\Users\DAK\Desktop\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.GenerateResource.cache
+C:\Users\DAK\Desktop\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAK\Desktop\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.AssemblyInfoInputs.cache
+C:\Users\DAK\Desktop\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.AssemblyInfo.cs
+C:\Users\DAK\Desktop\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.CoreCompileInputs.cache
+C:\Users\DAK\Desktop\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.dll
+C:\Users\DAK\Desktop\ImageResizer\obj\Debug\net7.0-windows\refint\ImageResizer.dll
+C:\Users\DAK\Desktop\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.pdb
+C:\Users\DAK\Desktop\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.exe
+C:\Users\DAK\Desktop\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.deps.json
+C:\Users\DAK\Desktop\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.runtimeconfig.json
+C:\Users\DAK\Desktop\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.dll
+C:\Users\DAK\Desktop\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.pdb
+C:\Users\DAK\Desktop\ImageResizer\bin\Debug\net7.0-windows\SixLabors.ImageSharp.dll
+C:\Users\DAK\Desktop\ImageResizer\bin\Debug\net7.0-windows\SixLabors.ImageSharp.Drawing.dll
+C:\Users\DAK\Desktop\ImageResizer\bin\Debug\net7.0-windows\SixLabors.ImageSharp.xml
+C:\Users\DAK\Desktop\ImageResizer\bin\Debug\net7.0-windows\SixLabors.ImageSharp.Drawing.xml
+C:\Users\DAK\Desktop\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.CopyComplete
+C:\Users\DAK\Desktop\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.genruntimeconfig.cache
+C:\Users\DAK\Desktop\ImageResizer\obj\Debug\net7.0-windows\ref\ImageResizer.dll
+C:\Users\DAK\Desktop\ImageResizer\bin\Debug\net7.0-windows\AForge.Imaging.dll
+C:\Users\DAK\Desktop\ImageResizer\bin\Debug\net7.0-windows\Aspose.Imaging.dll
+C:\Users\DAK\Desktop\ImageResizer\bin\Debug\net7.0-windows\AForge.Imaging.xml
+C:\Users\DAK\Downloads\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.exe
+C:\Users\DAK\Downloads\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.deps.json
+C:\Users\DAK\Downloads\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.runtimeconfig.json
+C:\Users\DAK\Downloads\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.dll
+C:\Users\DAK\Downloads\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.pdb
+C:\Users\DAK\Downloads\ImageResizer\bin\Debug\net7.0-windows\SixLabors.ImageSharp.dll
+C:\Users\DAK\Downloads\ImageResizer\bin\Debug\net7.0-windows\SixLabors.ImageSharp.Drawing.dll
+C:\Users\DAK\Downloads\ImageResizer\bin\Debug\net7.0-windows\SixLabors.ImageSharp.xml
+C:\Users\DAK\Downloads\ImageResizer\bin\Debug\net7.0-windows\SixLabors.ImageSharp.Drawing.xml
+C:\Users\DAK\Downloads\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.AssemblyReference.cache
+C:\Users\DAK\Downloads\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.frmImgResizer.resources
+C:\Users\DAK\Downloads\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.Properties.Resources.resources
+C:\Users\DAK\Downloads\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.GenerateResource.cache
+C:\Users\DAK\Downloads\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAK\Downloads\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.AssemblyInfoInputs.cache
+C:\Users\DAK\Downloads\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.AssemblyInfo.cs
+C:\Users\DAK\Downloads\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.CoreCompileInputs.cache
+C:\Users\DAK\Downloads\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.CopyComplete
+C:\Users\DAK\Downloads\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.dll
+C:\Users\DAK\Downloads\ImageResizer\obj\Debug\net7.0-windows\refint\ImageResizer.dll
+C:\Users\DAK\Downloads\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.pdb
+C:\Users\DAK\Downloads\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.genruntimeconfig.cache
+C:\Users\DAK\Downloads\ImageResizer\obj\Debug\net7.0-windows\ref\ImageResizer.dll
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.AssemblyReference.cache
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.frmImgResizer.resources
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.Properties.Resources.resources
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.GenerateResource.cache
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.AssemblyInfoInputs.cache
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.AssemblyInfo.cs
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.CoreCompileInputs.cache
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.dll
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\refint\ImageResizer.dll
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.pdb
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.exe
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.deps.json
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.runtimeconfig.json
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.dll
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.pdb
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\SixLabors.ImageSharp.xml
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\SixLabors.ImageSharp.Drawing.xml
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.CopyComplete
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.genruntimeconfig.cache
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ref\ImageResizer.dll
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\AForge.dll
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\AForge.Imaging.dll
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\Magick.NET.Core.dll
+C:\Users\DAK\Desktop\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\AForge.xml
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.exe
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.deps.json
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.runtimeconfig.json
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.dll
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\ImageResizer.pdb
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\AForge.dll
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\AForge.Imaging.dll
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\Magick.NET.Core.dll
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\AForge.xml
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\SixLabors.ImageSharp.xml
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\bin\Debug\net7.0-windows\SixLabors.ImageSharp.Drawing.xml
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.AssemblyReference.cache
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.frmImgResizer.resources
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.Properties.Resources.resources
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.GenerateResource.cache
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.AssemblyInfoInputs.cache
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.AssemblyInfo.cs
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.CoreCompileInputs.cache
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.csproj.CopyComplete
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.dll
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\refint\ImageResizer.dll
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.pdb
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ImageResizer.genruntimeconfig.cache
+C:\Users\DAK\Desktop\All Manorama  Projects\Trash Files\Projects\Automatic Image Editor using MTCNN\ImageResizer\obj\Debug\net7.0-windows\ref\ImageResizer.dll

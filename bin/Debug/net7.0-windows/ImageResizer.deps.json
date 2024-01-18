@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ImageResizer/1.0.0": {
+        "dependencies": {
+          "AForge": "2.2.5.0",
+          "AForge.Imaging": "2.2.5.0",
+          "Magick.NET.Core": "13.2.0.0",
+          "SixLabors.ImageSharp": "3.0.0.0",
+          "SixLabors.ImageSharp.Drawing": "1.0.0.0"
+        },
+        "runtime": {
+          "ImageResizer.dll": {}
+        }
+      },
+      "AForge/2.2.5.0": {
+        "runtime": {
+          "AForge.dll": {
+            "assemblyVersion": "2.2.5.0",
+            "fileVersion": "2.2.5.0"
+          }
+        }
+      },
+      "AForge.Imaging/2.2.5.0": {
+        "runtime": {
+          "AForge.Imaging.dll": {
+            "assemblyVersion": "2.2.5.0",
+            "fileVersion": "2.2.5.0"
+          }
+        }
+      },
+      "Magick.NET.Core/13.2.0.0": {
+        "runtime": {
+          "Magick.NET.Core.dll": {
+            "assemblyVersion": "13.2.0.0",
+            "fileVersion": "13.2.0.0"
+          }
+        }
+      },
+      "SixLabors.ImageSharp/3.0.0.0": {
+        "runtime": {
+          "SixLabors.ImageSharp.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.1.0"
+          }
+        }
+      },
+      "SixLabors.ImageSharp.Drawing/1.0.0.0": {
+        "runtime": {
+          "SixLabors.ImageSharp.Drawing.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ImageResizer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AForge/2.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AForge.Imaging/2.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Magick.NET.Core/13.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SixLabors.ImageSharp/3.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SixLabors.ImageSharp.Drawing/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
